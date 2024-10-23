@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.container2{
+    display: flex;
+    justify-content: center;
+
+}
+
+h1{
+    text-align: center;
+    font-weight:bold ;
+}
+h2{
+    text-align: center;
+    font-weight:bold ;
+}
+
+.button1{
+   background-color: rgb(238, 236, 236); 
+   border-color: rgb(185, 181, 181);
+   border-style: double;
+   border-width: 2px;
+   border-radius: 5px;
+   width: 170px;
+   height: 70px;
+    margin-left: 15px;
+    font-size: x-large;
+ 
+   
+    
+}
+
+.button2{
+    background-color: rgb(55, 53, 53);
+    color: white;
+    border-radius: 5px;
+    width: 120px;
+    height: 60px;
+    margin-left: 15px;
+}
+.textarea{
+   width: 500px;
+   height: 150px;
+}
+
